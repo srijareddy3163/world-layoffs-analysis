@@ -13,14 +13,14 @@ Cleaned and prepared a global layoffs dataset using MySQL for analysis and visua
 ## Tools Used
 - MySQL
 - SQL
+- Excel
+- Power BI
 
 ## Skills Demonstrated
 - Data Cleaning
 - Data Transformation
 - SQL Joins
 - Data Preparation
+- Data Visualization
 
-## Next Steps
-- Exploratory Data Analysis (EDA)
-- Power BI Dashboard Development
-- Business Insights Generation
+
